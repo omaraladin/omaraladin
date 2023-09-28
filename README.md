@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Omar Aladdin
-- 👀 I’m interested in DevOps and Backend Programming
-- 🌱 I’m currently learning Azure-Devops and SRE things
-- 💞️ I’m looking to collaborate on DevOps stacks
-- 📫 How to reach me omar.alaa27@hotmail.com
+- 👋 Hi, I’m Omar 
 
 <!---
 omaraladin/omaraladin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
